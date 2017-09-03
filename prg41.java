@@ -4,7 +4,6 @@ public class prg41 {
 		public static void main(String[] args)
 		{
 			Scanner s=new Scanner(System.in);
-			System.out.println("Enter the Dag");
 			int sum=0;
 			String str=s.nextLine();
 			char d=(char)(92);
